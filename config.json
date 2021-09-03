@@ -1,0 +1,15 @@
+{
+	"Token": "",
+	"Prefix": "",
+
+	"Channel-Names": [""], 
+	"Server-Names": [""],
+	"Role-Names": [""],
+	"Reason": ["", ""],
+
+	"Spam": true,
+
+	"Webhook-Names": ["", ""],
+	"Spam-Messages": ["@everyone ", "@everyone "],
+	"Spam-Amount": 10000
+}
